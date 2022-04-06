@@ -50,7 +50,7 @@
         <dependency>
             <groupId>org.mongodb</groupId>
             <artifactId>bson</artifactId>
-            <version>3.5.0</version>
+            <version>4.5.1</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
